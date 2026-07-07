@@ -1,0 +1,12 @@
+{
+  "test_images": 30,
+  "total_actual_nuclei": 1162,
+  "total_predicted_nuclei": 1166,
+  "mean_error_rate_percent": 7.802750000000001,
+  "median_error_rate_percent": 5.2778,
+  "mean_confidence": 0.7896866666666665,
+  "confidence_threshold": 0.25,
+  "iou_threshold": 0.5,
+  "image_size": 512,
+  "model_path": "outputs/model/yolo11n_nuclei_best.pt"
+}

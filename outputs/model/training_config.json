@@ -1,0 +1,11 @@
+{
+  "model": "yolo11n.pt",
+  "data": "data/processed/yolo/nuclei.yaml",
+  "epochs": 20,
+  "imgsz": 512,
+  "batch": 8,
+  "seed": 42,
+  "device": "cpu",
+  "workers": 0,
+  "single_cls": true
+}

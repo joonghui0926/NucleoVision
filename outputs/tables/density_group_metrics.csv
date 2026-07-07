@@ -1,0 +1,4 @@
+density_group,images,mean_actual_count,mean_predicted_count,mean_error_rate_percent,mean_predicted_box_area,mean_confidence
+low,10,12.7,12.9,7.71717,1623.8610899999999,0.8105399999999999
+medium,10,29.3,30.0,9.014289999999999,1298.15429,0.81814
+high,10,74.2,73.7,6.67679,482.04796,0.74038
